@@ -1,6 +1,9 @@
 # SQL Ecommerce Analysis  
 ### Website Conversion Performance Case Study
 
+Dataset available here:
+https://drive.google.com/file/d/1Z8Y-1Gu_FsaCStLI8vsk7-t0x85iQD-n/view?usp=sharing
+
 ## Project Overview
 
 This project analyzes an ecommerce website's traffic and purchasing behavior using SQL.
