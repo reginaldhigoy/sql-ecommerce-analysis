@@ -155,7 +155,7 @@ The queries include:
 ## Project Structure
 sql-ecommerce-analysis
 │
-├── ecommerce_analysis.sql
+├── conversion_analysis.sql
 └── README.md
 
 ---
