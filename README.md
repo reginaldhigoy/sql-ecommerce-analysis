@@ -128,7 +128,7 @@ This product generates over **$1.2M in revenue** and **$738K in profit**, indica
 Based on the analysis, potential improvements include:
 
 - Improve product page design and call-to-action visibility
-- Optimize the mobile product page and checkout flow, as mobile users exhibit significantly higher drop-off rates at the product-to-cart stage. Improving page speed, simplifying navigation, and enhancing call-to-action      visibility could increase conversions.
+- Optimize the mobile checkout experience
 - Improve product messaging and pricing communication
 - Diversify product offerings to reduce reliance on a single flagship product
 
