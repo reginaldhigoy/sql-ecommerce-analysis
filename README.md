@@ -133,26 +133,6 @@ Based on the analysis, potential improvements include:
 - Diversify product offerings to reduce reliance on a single flagship product
 
 ---
-
-## Device-Level Funnel Analysis
-
-To further investigate the gap between desktop and mobile performance, a funnel analysis was conducted by device type.
-
-The goal was to identify where mobile users drop off in the conversion process.
-
-Key Insight
-
-Mobile users show significantly higher drop-off rates at the product page to cart stage compared to desktop users.
-
-This suggests that mobile users may experience friction when attempting to add products to their cart, potentially due to:
-
-- Poor mobile page design
-- Slow loading times
-- Unclear call-to-action buttons
-
-This reinforces the need to optimize the mobile user experience, particularly at the product page stage.
-
----
 ## SQL Queries
 
 All SQL queries used for this analysis can be found in:
